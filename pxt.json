@@ -2,7 +2,8 @@
     "name": "rabbit fight",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
