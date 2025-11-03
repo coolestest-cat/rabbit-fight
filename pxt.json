@@ -2,7 +2,9 @@
     "name": "rabbit fight",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
